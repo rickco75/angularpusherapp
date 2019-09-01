@@ -1,0 +1,29 @@
+{
+  "name": "angularpusherapp",
+  "version": "1.0.0",
+  "description": "Angular with Pusher and Node Real time Chat system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickco75/angularpusherapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickco75/angularpusherapp/issues"
+  },
+  "homepage": "https://github.com/rickco75/angularpusherapp#readme",
+  "dependencies": {
+    "@pusher/chatkit-client": "^1.12.1",
+    "@pusher/chatkit-server": "^2.1.0",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.1.0",
+    "express": "^4.17.1"
+  }
+}
