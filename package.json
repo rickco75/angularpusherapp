@@ -20,7 +20,7 @@
   "dependencies": {
     "@pusher/chatkit-client": "^1.12.1",
     "@pusher/chatkit-server": "^2.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "dotenv": "^8.1.0",
